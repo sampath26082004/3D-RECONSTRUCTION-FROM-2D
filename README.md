@@ -9,11 +9,6 @@
 3. [Project Structure](#project-structure)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Screenshots](#screenshots)
-7. [Manual Testing](#manual-testing)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
 
 ## Features
 
@@ -87,8 +82,8 @@ Pillow
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/varun-jasti/Image3d.git
-   cd pixel2shape
+(https://github.com/sampath26082004/3D-Reconstruction-from-2D.git)
+cd 3D RECONSTRUTION FROM 2D
    ```
 
 2. **Create and activate a virtual environment:**
@@ -131,18 +126,6 @@ Pillow
 3. **View 3D Model:**
    - Once the conversion is complete, view and interact with the 3D model.
 
-## Screenshots
-
-### Image Upload Page
-![Upload Page](Sample%20Demo/Upload%20Page.png)
-
-### Confirmation Page
-![Confirmation Page](Sample%20Demo/Confirmation%20Page.png)
-
-### 3D Model Preview
-![3D Model](Sample%20Demo/3D%20Model.png)
-
-## Manual Testing
 
 ### Test Cases
 
@@ -157,23 +140,9 @@ Pillow
 3. **3D Model Rendering:**
    - **Input:** View the generated 3D model.
    - **Expected Output:** The model is displayed correctly and is interactive.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-- **Author:** [Varun Kumar Jasti](https://github.com/varun-jasti)
-- **Email:** varunkumarjasti@gmail.com
-- **LinkedIn:** Viswanadh Varun Kumar Jasti([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/viswanadh-varun-kumar-jasti/)
