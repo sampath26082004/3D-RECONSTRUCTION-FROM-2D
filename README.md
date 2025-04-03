@@ -1,6 +1,6 @@
-# PIXEL 2 SHAPE
+# 3D RECONSTRUTION FROM 2D
 
-**PIXEL 2 SHAPE** is a Django-based web application that converts 2D images into 3D models using advanced machine learning and deep learning techniques. The application is designed to be user-friendly, allowing users to easily upload images, confirm conversion, and interact with the generated 3D models.
+**3D RECONSTRUTION FROM 2D** is a Django-based web application that converts 2D images into 3D models using advanced machine learning and deep learning techniques. The application is designed to be user-friendly, allowing users to easily upload images, confirm conversion, and interact with the generated 3D models.
 
 ## Table of Contents
 
@@ -34,10 +34,10 @@
 ## Project Structure
 
 ```plaintext
-pixel2shape/
+3D RECONSTRUTION FROM 2D/
 ├── manage.py
 ├── db.sqlite3
-├── pixel2shape/
+├── 3Dreconstructionfrom2D/
 │   ├── settings.py
 │   ├── urls.py
 │   ├── wsgi.py
